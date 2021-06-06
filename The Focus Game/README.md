@@ -6,6 +6,6 @@ The player is controlled using PlayerMovement.cs along with MouseLook.cs
 
 Each piano music note  has its own code
 
-For the submition button, there are two files, BuildASongButt.cs and KeySubmit.cs
+Each level has its own code, as there is a specific melody per level
 
 The timer.cs file is linked to the PlayerMovement, allowing there to be a timer on all rooms
